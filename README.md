@@ -1,8 +1,7 @@
 ## Olá, mundo! 👋
 - 🌱 Estou atualmente aprendendo e estudando desenvolvimento web
-- 📫 Estou em todas as redes sociais com meu perfil ayrtontsn
-
-
+- ⚡ HTML + CSS + JS
+- ✨ Python - QGIS
 <!--
 **ayrtontsn/ayrtontsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
